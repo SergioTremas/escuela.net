@@ -1,0 +1,10 @@
+C:\Users\stremosa\source\repos\EscuelaCore\libs\bin\Debug\netcoreapp3.1\libs.deps.json
+C:\Users\stremosa\source\repos\EscuelaCore\libs\bin\Debug\netcoreapp3.1\libs.dll
+C:\Users\stremosa\source\repos\EscuelaCore\libs\bin\Debug\netcoreapp3.1\libs.pdb
+C:\Users\stremosa\source\repos\EscuelaCore\libs\obj\Debug\netcoreapp3.1\libs.AssemblyInfoInputs.cache
+C:\Users\stremosa\source\repos\EscuelaCore\libs\obj\Debug\netcoreapp3.1\libs.AssemblyInfo.cs
+C:\Users\stremosa\source\repos\EscuelaCore\libs\obj\Debug\netcoreapp3.1\libs.dll
+C:\Users\stremosa\source\repos\EscuelaCore\libs\obj\Debug\netcoreapp3.1\libs.pdb
+C:\Users\stremosa\source\repos\EscuelaCore\libs\bin\Debug\netcoreapp3.1\libs.runtimeconfig.json
+C:\Users\stremosa\source\repos\EscuelaCore\libs\bin\Debug\netcoreapp3.1\libs.runtimeconfig.dev.json
+C:\Users\stremosa\source\repos\EscuelaCore\libs\obj\Debug\netcoreapp3.1\libs.csprojAssemblyReference.cache

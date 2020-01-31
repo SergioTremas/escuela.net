@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\stremosa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\stremosa\\.nuget\\packages"
+    ]
+  }
+}
